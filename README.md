@@ -18,6 +18,8 @@ The objective was to simulate a real-world SMB production workload while applyin
 
 ## 🏗 Architecture Summary
 
+![Architecture Diagram](architecture/Architecture-diagram.png)
+
 - Resource Group: `rg-prod-securevm`
 - Virtual Network: `10.0.0.0/16`
 - Subnet: `10.0.1.0/24`
